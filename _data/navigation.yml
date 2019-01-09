@@ -2,9 +2,11 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Contact
-  url: /contact
-- text: Blog
-  url: /blog
+- text: Resources
+  url: /resources
+- text: Nuts & Bolts
+  url: /nuts
+- text: Grading
+  url: /grading
+- text: Schedule
+  url: /schedule

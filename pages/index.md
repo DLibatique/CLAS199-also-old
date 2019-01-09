@@ -1,7 +1,21 @@
 ---
 layout: home
-title: Welcome
+title: CLAS 199 01 - Gender and Sexuality in the Ancient World
 permalink: /
 section: home
-intro_paragraph: Welcome to the course website for CLAS 199 01, **Gender and Sexuality in the Ancient World**, a course offered in Spring 2019 at the College of the Holy Cross.
+intro_paragraph:
 ---
+
+# Course Information
+**CLAS 199 01 - Gender and Sexuality in the Ancient World**  
+**Meeting Time:** MW 3pm to 4:15pm  
+**Meeting Place:** TBD  
+**Instructor:** Prof. Daniel Libatique (he/him/his)  
+**Office:** Fenwick 410  
+**Office hours:** T 11am to 1pm, W 11am to 1pm, or by appointment  
+**E-mail:** dlibatiq [at] holycross.edu  
+**Website:** [Click here.](https://dlibatique.github.io)
+
+This course surveys the iconographic and literary evidence for the construction of gender and sexuality in ancient Greece and Rome. The definitions of such concepts as love, masculinity, femininity, homoeroticism, courtship, and marriage, among others, have displayed both remarkable continuity in some aspects but also radical change in others from the ancient Greeks and Romans to modern times. This course aims to establish a baseline for ancient conceptions of gender and sexuality and invites students to compare and contrast these notions with those of contemporaneous societies and of the modern day.
+
+Use the navigation bar along the top right to see the course objectives, documents, schedule, bibliography, and other materials.
