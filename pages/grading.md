@@ -6,6 +6,7 @@ section: grading
 intro_paragraph:
 ---
 
+<a name="top"></a>
 [Grading Contract](#gc) \| [Absence Policy](#ap) \|  
 Guidelines: [Responses](#responses) \| [Quizzes](#quizzes) \| [Final Exam](#finex) \| [Final Essay](#finess) \|  
 [Creative Projects](#cp): [Write a Poem](#poem) \| [Artistic Rendering](#art) \| [*Eidolon* Pitch](#eidolon) \|  
@@ -33,6 +34,8 @@ To achieve a certain grade level, you must complete the listed number of satisfa
 Once you have reached a certain grade level, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria for the responses or creative projects in the next grade range. For instance, a student in the B- range would move to a B by completing two more responses OR an additional creative project and would earn a B+ by doing both of those things. Then, at the end of the semester, if the student has completed the requirements for a B+ and accrued no more than 2 unexcused absences, the grade goes up to an A-. If, however, the student has accrued 3 or 4 unexcused absences, the grade remains at B+.
 
 It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted three tokens. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of excused absences, and three tokens are required for another attempt at an unsatisfactory essay, exam, or creative project. No late assignments will be accepted without a documented reason.
+
+[Back to top.](#top)
 <hr>
 # <a name="ap">Absence Policy</a>
 You must attend each meeting of the course to attain a good grade. I will be explaining many terms and concepts in class in ways that are not readily available through any other course materials, and your participation in the class’ discussion of the course’s readings and ideas is vital to building a strong classroom and your own foundation of knowledge.
@@ -47,6 +50,7 @@ Any absence about which I do not receive an e-mail from you or which is not excu
 
 The semester grading contract takes into account only **unexcused** absences, though I reserve the right to take **excused** absences into account if the student’s number of excused absences become excessive.
 
+[Back to top.](#top)
 <hr>
 # <a name="responses">Response Guidelines</a>
 
@@ -66,6 +70,8 @@ Answer the following questions:
 
 <span class="underline"><strong>Personal Reflection</strong></span>  
 If the article speaks to you on a personal level (in terms of gender, sexual orientation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life?
+
+[Back to top.](#top)
 <hr>
 # <a name="quizzes">Quiz Guidelines</a>
 
@@ -85,6 +91,8 @@ For reasons of space, the guidelines for the final essay will be provided direct
 - What kinds of sexuality are on display in the writings of [choose author]?
 
 You will be required to draw on at least two primary sources and two secondary sources to write your essay.
+
+[Back to top.](#top)
 <hr>
 # <a name="cp">Creative Projects: General Guidelines</a>
 
