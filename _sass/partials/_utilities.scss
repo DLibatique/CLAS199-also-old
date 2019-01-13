@@ -100,6 +100,21 @@ button {
 	@include button($link-color, $text-color-negative);
 }
 
+button[type="submit"] {
+	font-weight: 600;
+	padding: 1rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #00729a;
+	border: 0px solid #00729a;
+}
+
+input[type="file"] {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
 table, th, td {
 	border: 1px solid black;
 	text-align: center;

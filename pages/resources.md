@@ -6,6 +6,18 @@ section: resources
 intro_paragraph: |
 ---
 
+# Upload Portal
+
+<div id="form">
+  <form id="fileUpload">
+    <input
+      type="file"
+      accept=".doc,.docx,.pdf"
+    />
+    <button type="submit" id="submit-btn">Upload</button>
+  </form>
+</div>
+
 # Course Texts
 - Ormand, Kirk. *Controlling Desires: Sexuality in Ancient Greece and Rome*. Westport (Conn.) and London: Praeger, 2009.  
 - Various supplemental articles and chapters in PDF or xerox form — see schedule.  
