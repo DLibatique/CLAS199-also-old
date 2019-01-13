@@ -42,7 +42,7 @@ a {
 }
 
 ul {
-	list-style: disc;
+	list-style: square;
 	padding: 0px 0px 20px 0px;
 }
 
@@ -132,4 +132,9 @@ hr {
   margin-right: 1em;
   border-style: solid;
   border-width: 1px;
+}
+
+li ul {
+	list-style: square;
+	padding: 0px 0px 0px 40px;
 }

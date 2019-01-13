@@ -28,6 +28,9 @@ body {
 h1,h2,h3,h4,h5,h6,p,figure,time {
   padding-bottom: 2rem;
 }
+p.list {
+  padding-bottom: 0rem;
+}
 
 h1,h2,h3,h4,h5,h6,figure {
   p + &,
