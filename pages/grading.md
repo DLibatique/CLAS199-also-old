@@ -194,6 +194,28 @@ The criteria for a grade of satisfactory are as follows:
 9. Submit the public link to me via e-mail.
 
 Resources and Tips:
-- The best software to use to record the podcast would be [Audacity](https://www.audacityteam.org/). It’s free and relatively intuitive to use! Guidelines on using Audacity to record a podcast can be found [here](https://podcast.co/create/record-a-podcast).
-- You can (and are encouraged to) use the **Media Suites** at the **Multimedia Resource Center** in Stein 324 to record your podcasts. Check out [this link](https://www.holycross.edu/multimedia-resource-center/media-suites-multimedia-resource-center) for information and for the portal to reserve a suite.
+- Make sure to contact me before you begin this project, as I have a list of resources that you can use to make the project easier, provided by Holly Hunt, supervisor of the Multimedia Resource Center in Stein 324.
+- You can (and are encouraged to) use the **Media Suites** at the **Multimedia Resource Center** in Stein 324 to record your podcasts. Check out <a href="https://www.holycross.edu/multimedia-resource-center/media-suites-multimedia-resource-center" class="underline">this link</a> for information and for the portal to reserve a suite.
+- If you want to go it alone, the best software to use to record the podcast would be <a href="https://www.audacityteam.org/" class="underline">Audacity</a>. It’s free and relatively intuitive to use! Guidelines on using Audacity to record a podcast can be found <a href="https://podcast.co/create/record-a-podcast" class="underline">here</a>.
 - Make sure to use the podcasts assigned for the course as an inspiration for podcast style and content.
+
+<a href="#top" class="underline">Back to top.</a>
+<hr>
+
+### <a name="vid">Creative Project 6: Video Lesson.</a>
+
+This creative project prompts you to **choose a topic relating to ancient gender or sexuality to discuss on video**. Like the podcast (<a href="#pod" class="underline">Creative Project 5</a>), the topic may be as specific (e.g., what kind of musical instruments would Sappho perform on?) or broad (e.g., here are some examples of how women are depicted in Greek pottery) as you’d like. Unlike the podcast option, however, the challenge with a video lesson becomes using whatever visual media you can to get your point or your lesson across: pictures, gifs, videos, music, etc.
+
+The criteria for a grade of satisfactory are as follows:
+1. The content of the video must focus on explaining a topic that relates to ancient Greek or Roman gender or sexuality. Imagine an audience that knows nothing about but wants to learn about your chosen topic.
+2. The topic may be drawn from any topic discussed or mentioned in Ormand, in a secondary reading, or in class.
+3. For the video, you must write and use your own script — you cannot, e.g., simply read passages from Ormand aloud.
+4. Any pictures, gifs, videos, or other media that you use in your video but that you did not create yourself must be properly sourced — a list of hyperlinks handed in separately would suffice.
+5. You should include in the source list from #4 a bibliography of textual sources that you consulted, even if you use only Ormand.
+6. The length of the video must be between 4 to 6 minutes.
+7. The format of the video should be electronic (for example, in .mov or .wmv format).
+8. The podcast should be uploaded to an external site, like Youtube, and accessible via a public link.
+9. Submit the public link to me via e-mail.
+
+Resources and Tips:
+- You may use the **Media Suites** of the **Multimedia Resource Center** in **Stein 324** (see “Resources and Tips” for <a href="#pod" class="underline">Creative Project 5</a>) OR the **Production Studio** of **Digital Media Services** in **Stein 104**. They have great equipment and services, including a green screen, professional lighting, professional cameras, and post-production work like titles, overlays, etc. If you would like to use their services, you are **very strongly encouraged to consult with me early in the semester** so that we can collaborate with DMS on the project. If you leave it to the middle or (worse) end of the semester, there’s no guarantee that DMS will be able to help you with your project time- or space-wise.
