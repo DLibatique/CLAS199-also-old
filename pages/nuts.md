@@ -6,7 +6,7 @@ section: nuts
 intro_paragraph:
 ---
 <a name="top"></a>
-<a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity]</a> \|  
+<a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity</a> \|  
 <a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#disability" class="underline">Disability</a>
 
 ## <a name="ac">Academic Conduct</a>
