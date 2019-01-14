@@ -49,6 +49,7 @@ ul {
 ol,
 dl {
 	list-style: decimal;
+	padding: 0px 0px 20px 0px;
 }
 
 em {
@@ -136,5 +137,10 @@ hr {
 
 li ul {
 	list-style: square;
+	padding: 0px 0px 0px 40px;
+}
+
+li ol {
+	list-style: decimal;
 	padding: 0px 0px 0px 40px;
 }

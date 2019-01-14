@@ -6,7 +6,9 @@ section: resources
 intro_paragraph: |
 ---
 
-# Upload Portal
+<hr>
+
+## <a style="color: #000000;" name="up">Upload Portal</a>
 
 <div id="form">
   <form id="fileUpload">
@@ -18,13 +20,17 @@ intro_paragraph: |
   </form>
 </div>
 
-# Course Texts
+<hr>
+
+## Course Texts
 - Ormand, Kirk. *Controlling Desires: Sexuality in Ancient Greece and Rome*. Westport (Conn.) and London: Praeger, 2009.  
 - Various supplemental articles and chapters in PDF or xerox form — see schedule.  
 
 The cost of books should never be a deterrent to participation in a class that you want to take. If you have trouble affording our course textbook, please let me know, and I will work to get you an affordable copy through the resources of the College.  
 
-# Electronic Resources
+<hr>
+
+## Electronic Resources
 [Cornell notes example](https://alisoninnes.files.wordpress.com/2017/10/cornell-notes-quick-dirty-guide.pdf) - A note-taking method suggested by [Alison Innes](https://twitter.com/alisoninnes) that may help you organize your notes and thoughts throughout lecture more easily.  
 [Cornell notes template](https://alisoninnes.files.wordpress.com/2018/01/template-for-cornell-notes-unlined1.pdf)
 

@@ -10,13 +10,13 @@ The readings listed under each week should be completed by the Monday class meet
 
 \* indicates a reading that may be used for a response.
 
-# Week 1 (W 1/23) - Introduction
+## Week 1 (W 1/23) - Introduction
 
 <p class="list">Read <a href="https://drive.google.com/file/d/15midUtvMqkaagLbVXOpfYr8HDud49Xgf/view?usp=sharing">Ormand pp. 1-20</a>.</p>
 <ul></ul>
 <hr>
 
-# Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry
+## Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry
 
 <p class="list">Readings:</p>
 - [Ormand 21-45](https://drive.google.com/file/d/15rZykQDi0Ke2HBxQz9j-vQeEuWttI_6P/view?usp=sharing).
@@ -32,7 +32,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <hr>
 
-# Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens
+## Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens
 
 <p class="list">Readings:</p>
 - [Ormand 46-59](https://drive.google.com/file/d/15sbMxY3eqCOfCAubuN_BAT1Qh-9iFuSq/view?usp=sharing).
@@ -48,7 +48,7 @@ Quiz #1 on W 2/6.
 
 <hr>
 
-# Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy
+## Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy
 
 <p class="list">Readings:</p>
 - Ormand 60-74.
@@ -61,7 +61,7 @@ Quiz #1 on W 2/6.
 
 <hr>
 
-# Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece
+## Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece
 
 <p class="list">Readings:</p>
 - Ormand 75-90.
@@ -74,10 +74,11 @@ Quiz #2 on 2/20.
 <p class="list">Optional:</p>
 - \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 
-# Week 6 (M 2/25, W 2/27) - Philosophical Sex
+<hr>
+
+## Week 6 (M 2/25, W 2/27) - Philosophical Sex
 
 <p class="list">Readings:</p>
 - Ormand 91-106.
 - \* Listen to the [Ancient Greece Declassified podcast on Platonic Love](http://greecepodcast.com/episode17.html).
-- \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220.
--
+- \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220. London.

@@ -6,8 +6,7 @@ section: home
 intro_paragraph:
 ---
 
-# Course Information
-**CLAS 199 01 - Gender and Sexuality in the Ancient World**  
+## Course Information
 **Meeting Time:** MW 3pm to 4:15pm  
 **Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
